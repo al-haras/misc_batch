@@ -1,6 +1,6 @@
 ## Misc. Batch Scripts
 
-This is a place for misc batch scripts created.
+This is a place for misc batch scripts.
 
 ### Webroot
 
